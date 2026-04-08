@@ -32,4 +32,4 @@ As someone learning a new language, with a long history in and around disability
 
 ## License
 
-MIT License - see LICENSE file for details.
+GNU Affero General Public License v3.0 (AGPL-3.0) - see LICENSE file for details.
